@@ -1,0 +1,5 @@
+project: xml2json
+target: xml2json
+
+cmds:
+  - cmd: /xml2json @@
